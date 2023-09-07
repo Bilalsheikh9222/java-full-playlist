@@ -1,4 +1,4 @@
-package java_playlist.java_playlist;
+package java_playlist;
 
 public class backTracking_20 {
     public static void printPermutation(String str, int index, String perm){

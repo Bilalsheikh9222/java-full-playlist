@@ -1,4 +1,4 @@
-package java_playlist.java_playlist;
+package java_playlist;
 
 // Recursion call to itself
 public class Recursion_17 {

@@ -1,4 +1,4 @@
-package java_playlist.java_playlist;
+package java_playlist;
 
 // user defined packages
 class Sorting_16 {

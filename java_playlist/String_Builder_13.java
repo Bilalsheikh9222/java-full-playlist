@@ -1,4 +1,4 @@
-package java_playlist.java_playlist;
+package java_playlist;
 
 public class String_Builder_13 {
     public static void main(String[] args){

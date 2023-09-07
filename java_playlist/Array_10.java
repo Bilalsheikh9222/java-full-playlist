@@ -1,4 +1,4 @@
-package java_playlist.java_playlist;
+package java_playlist;
 
 import java.util.*;
 public class Array_10 {

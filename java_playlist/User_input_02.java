@@ -1,4 +1,4 @@
-package java_playlist.java_playlist;
+package java_playlist;
 
 public class User_input_02{
     public static void main(String[] args){
