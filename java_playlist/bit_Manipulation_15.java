@@ -13,6 +13,10 @@ public class bit_Manipulation_15 {
 //        int pos = 1;
 //        1 left shift by position times
 //        int bitMask = 1<<pos;
+//
+//        GET BIT -- short form
+//        System.out.println((n & bitMask) >> pos);
+//
 //        if((bitMask & n) == 0){
 //            System.out.println("bit was zero");
 //        }else{
